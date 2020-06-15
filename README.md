@@ -1,17 +1,21 @@
-# Dell Precision T7610 Workstation MAC PRO Hackintosh GUIDE
+# CUSTOM MAC PRO DELL T7600 WORKSTATION Hackintosh GUIDE
 
 ## Introduction: 
 
-This Workstation used to be a Beast with Dual CPUs and a lot of of RAM (64 GB), I Know it is now normal to get that much cores in a Desktop but it is still a very decent machine for me (As a Programmer), and I thought it would be a good idea to Install MOJAVE MacOS 10.15.6 as the Daily Driver.
+This Workstation for extreme application used to be a Beast with Dual CPUs and a lot of of RAM (64 GB), I Know it is now normal to get that much cores in a Desktop but it is still a very decent machine for me (As a Programmer), and I thought it would be a good idea to Install MOJAVE MacOS 10.15.6 as the Daily Driver, also 
+
+It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of over 350mb/s, along with 250mb/s read write speed, and a ssd for system and applications, is configured to work with the most demanding video files, Ultra-performance video editing 3D sound system.
 
 ## Specs:
 
 1. CPU: 2x Xeon E5-2620 v2 2GHz Eight Core Processors
 1. RAM: 64 GB 1333 MHz DDR3 ECC Memory
-1. GPU: GYGABYTE Radeon RX 560 4GB
+1. GPU: GYGABYTE Radeon RX 560 4GB, OUTPUT 4K MONITORS (DVI, HDMI and Display port)
 1. HD SATA SSD 960 GB
-1. BLUETOOTH USB BT400 ASUS
+1. WIFI AC 1300mb/s
+1. BLUETOOTH 4.1 USB BT400  (Fully compatible with apple wireless devices)
 1. Chipset: Intel C602
+1. Built-in Speakers, Optical Drive
 1. Audio: Realtek ALC3220 (ALC280) High Definition Audio
 1. SAS Drive Controllers (RAID): LSI 2308 SATA/SAS 6Gb/s controller with host based RAID 0, 1, 10 (4 
 1. Network Controller 1: Intel 82579 Gigabit Ethernet controller with Remote Wake UP, PXE and Jumbo frames support
@@ -42,4 +46,5 @@ This Workstation used to be a Beast with Dual CPUs and a lot of of RAM (64 GB), 
 ![alt text](https://i.ebayimg.com/images/g/QE8AAOSwCDxeP-e9/s-l1600.jpg)
 
 ![alt text](https://i.ebayimg.com/images/g/L9gAAOSwtjBeP-ew/s-l1600.png)
+
 
