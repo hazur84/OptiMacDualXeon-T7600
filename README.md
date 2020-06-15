@@ -77,7 +77,7 @@ GTX 660/TI(MUST BE RUNNING A GK 104 core, NOT GK 106),
 GTX 650(MUST BE RUNNING A GK 107 core, NOT GK 106),
 GTX 645(GT 645 is Fermi),
 GT 640(Kepler edition, GK 107/208 core),
-GT 630(Kepler edition, GK 208 core)
+GT 630(Kepler edition, GK 208 core).
 
 **Quadro:**
 Quadro 410,
@@ -85,15 +85,15 @@ Quadro K420,
 Quadro K600 Card (4K at 60Hz via DisplayPort, is the cheapest 4k),
 Quadro K2000/D,
 Quadro K4000/D,
-NVS 510
+NVS 510.
 
-### Supported ATI Graphics Cards
+### Supported ATI Graphics Cards Serie RX5XX
 
-1. RX 550
-1. RX 560 (Best option relaible, not require power connector)
-1. RX 570
-1. RX 580 (NITRO SAPPHIRE)
-1. RX 590 (NITRO SAPPHIRE)
+RX 550,
+RX 560 (Best option relaible, not require power connector),
+RX 570,
+RX 580 (NITRO SAPPHIRE),
+RX 590 (NITRO SAPPHIRE).
 
 ## Preliminary Steps
 
