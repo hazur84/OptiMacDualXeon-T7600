@@ -1,3 +1,5 @@
+# Dell Precision T7600 + MacPro = The Dell MacPro
+
 # Custom MacPro DELL T7600 Workstation Hackintosh Guide
 
 ## Introduction: 
@@ -51,8 +53,6 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 # Hardware upgrades
 
 1. Fenvi FV-HB1200 Broadcom 94360CS2 Wifi/BT Adapter
-
-# Dell Precision T7600 + MacPro = The Dell MacPro
 
 ## Install a Supported Graphic Card Out Of The Box (OOB)
 
