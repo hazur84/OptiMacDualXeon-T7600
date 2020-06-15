@@ -2,7 +2,7 @@
 
 ## Introduction: 
 
-This Workstation used to be a Beast with Dual CPUs and a lot of of RAM (64 GB), I Know it is now normal to get that much cores in a Desktop but it is still a very decent machine for me (As a Programmer), and I thought it would be a good idea to Install MacOS as the Daily Driver Rather than Linux and It turns out to be a very Great Experience (with Some Challenges ^_^).
+This Workstation used to be a Beast with Dual CPUs and a lot of of RAM (64 GB), I Know it is now normal to get that much cores in a Desktop but it is still a very decent machine for me (As a Programmer), and I thought it would be a good idea to Install MOJAVE MacOS 10.15.6 as the Daily Driver.
 
 ## Specs:
 
