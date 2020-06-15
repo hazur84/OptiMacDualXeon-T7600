@@ -1,6 +1,9 @@
-# Dell Precision T7600 + MacPro = The Dell MacPro T7600
+# DELL Precision T7600 + MacPro = The Dell MacPro T7600
+DELL T7600 Workstation - 2x 8-Core Intel Xeon E5-2620V2 - 64GB RAM - AMD Radeon RX560
 
 # Custom MacPro DELL T7600 Workstation Hackintosh Guide
+
+This is a complete installation guide to install macOS Mojave 10.14.6 on your custom built hardware featuring 64GB RAM paired with 2x 8-Core Intel Xeon E5-2620v2 and SSD 960 GB. The purpose of this guide is to provide a step-by-step guide to install Mojave using Clover UEFI.
 
 ## Introduction: 
 
