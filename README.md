@@ -1,4 +1,4 @@
-# Dell Precision T7600 + MacPro = The Dell MacPro
+# Dell Precision T7600 + MacPro = The Dell MacPro T7600
 
 # Custom MacPro DELL T7600 Workstation Hackintosh Guide
 
