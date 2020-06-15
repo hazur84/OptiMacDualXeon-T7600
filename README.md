@@ -63,28 +63,28 @@ Most people know that Nvidia has never released Web drivers for Mojave. What you
 The Following Cards are all Mojave Compatible:
 
 **Kepler Gen 2:**
-GTX 770
-GTX 760/ti
-GT 740
-GT 730
-GT 720
+GTX 770,
+GTX 760/ti,
+GT 740,
+GT 730,
+GT 720,
 GT 710
 
 **Kepler Gen 1:**
-GTX 680
-GTX 670
-GTX 660/TI(MUST BE RUNNING A GK 104 core, NOT GK 106)
-GTX 650(MUST BE RUNNING A GK 107 core, NOT GK 106)
-GTX 645(GT 645 is Fermi)
-GT 640(Kepler edition, GK 107/208 core)
+GTX 680,
+GTX 670,
+GTX 660/TI(MUST BE RUNNING A GK 104 core, NOT GK 106),
+GTX 650(MUST BE RUNNING A GK 107 core, NOT GK 106),
+GTX 645(GT 645 is Fermi),
+GT 640(Kepler edition, GK 107/208 core),
 GT 630(Kepler edition, GK 208 core)
 
 **Quadro:**
-Quadro 410
-Quadro K420
-Quadro K600 Card (4K at 60Hz via DisplayPort, is the cheapest 4k)
-Quadro K2000/D
-Quadro K4000/D
+Quadro 410,
+Quadro K420,
+Quadro K600 Card (4K at 60Hz via DisplayPort, is the cheapest 4k),
+Quadro K2000/D,
+Quadro K4000/D,
 NVS 510
 
 ### Supported ATI Graphics Cards
