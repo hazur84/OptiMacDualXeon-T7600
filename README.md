@@ -52,14 +52,17 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 # Dell Precision T7600 Workstation Resources
 
 ## Dell T7600 Resources:
-- Dell Precision T7600 Workstation Overview (Sales Presentation - Video)
-- Dell Precision T7600 Workstation Specifications [(PDF)](https://www.dell.com/downloads/global/products/precn/en/Dell-Precision-T7600-Spec-Sheet.pdf)
-- Dell T7600 documentation (dell.com): Owner's Manual [(PDF)](https://buerorechner24.de/mediafiles/Sonstiges/pdf-Dateien%20Workstations%20Spec%20Sheets%20Bedienungsanleitungen/Dell/T7600/Precision%20T7600%20Owner's%20Manual.pdf)
-- Dell T7600 support (dell.com)
+- Overview (Sales Presentation - Video)
+- Specifications [(PDF)](https://www.dell.com/downloads/global/products/precn/en/Dell-Precision-T7600-Spec-Sheet.pdf)
+- Owner's Manual [(PDF)](https://buerorechner24.de/mediafiles/Sonstiges/pdf-Dateien%20Workstations%20Spec%20Sheets%20Bedienungsanleitungen/Dell/T7600/Precision%20T7600%20Owner's%20Manual.pdf)
+
 
 ## Dell T7610 Resources:
-- Dell Precision T7610 Workstation - Product Page (specs, etc.)
-- Dell Precision T7610 Workstation Specifications [(PDF)](http://i.dell.com/sites/doccontent/business/smb/merchandizing/en/Documents/Dell_Precision_T7610_Spec_Sheet.pdf)
+- Overview (Sales Presentation - Video)
+- Specifications [(PDF)](http://i.dell.com/sites/doccontent/business/smb/merchandizing/en/Documents/Dell_Precision_T7610_Spec_Sheet.pdf)
+- Statement of volatility [PDF](https://downloads.dell.com/manuals/all-products/esuprt_desktop/esuprt_dell_precision_workstation/precision-t7610-workstation_administrator%20guide_en-us.pdf)
+- Setup and Features Information [PDF](https://downloads.dell.com/manuals/all-products/esuprt_desktop/esuprt_dell_precision_workstation/precision-t7610-workstation_setup%20guide_en-us.pdf)
+- Owner's Manual [PDF](https://topics-cdn.dell.com/pdf/precision-t7610-workstation_owners-manual_en-us.pdf) 
 
 ## Dell T7600 System Board Components
 ![alt text](https://c528a1c3-a-9923f991-s-sites.googlegroups.com/a/dv411.com/support/home/vendors/dell/T7600%20System%20Components.png?attachauth=ANoY7crD05fCxWyc8vYAL3W96AYXQ3aqjC9F7CyhpobLtYJLvLyykVwH6jtQjKBBraFZgpcsnM0bk1NgT4O5V0QdsiFMvzpKEC2u4IN-eHjNL3cqLnFtHF7XUFtcxIqGPgnl1NkoMQN3i-bDp49Qjtj98BFwRLvxa7x4oXl7HcmtvJx_tVw9YppvzXkQerv0GBPmPxW9DLI0r_vj8LLCqchVD28Humw9ePkSF3RParOXacJBE-iN_Oa0_Q2IzPaHKMyN-XfCtB76&attredirects=0)
