@@ -11,27 +11,33 @@ This Workstation for extreme application used to be a Beast with Dual CPUs and a
 
 It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of over 350mb/s, along with 250mb/s read write speed, and a ssd for system and applications, is configured to work with the most demanding video files, Ultra-performance video editing 3D sound system.
 
-## Specs:
+## Specifications
 
-1. CPU: 2x Xeon E5-2620 v2 2GHz Eight Core Processors
-1. RAM: 64 GB 1333 MHz DDR3 ECC Memory
-1. GPU: GYGABYTE Radeon RX 560 4GB, OUTPUT 4K MONITORS (DVI, HDMI and Display port)
-1. HD SATA SSD 960 GB
-1. WIFI AC 1300mb/s
-1. BLUETOOTH 4.1 USB BT400  (Fully compatible with apple wireless devices)
-1. Chipset: Intel C602
-1. Built-in Speakers, Optical Drive
-1. Audio: Realtek ALC3220 (ALC280) High Definition Audio
-1. SAS Drive Controllers (RAID): LSI 2308 SATA/SAS 6Gb/s controller with host based RAID 0, 1, 10 (4 
-1. Network Controller 1: Intel 82579 Gigabit Ethernet controller with Remote Wake UP, PXE and Jumbo frames support
-1. Network Controller 2: Intel Ethernet Controller I210
-1. NEC USB3.0 xHCI Controller: Renesas Electronics uPD720201 & uPD720202
-1. Power Supply 1300 Watts 
+- Motherboard: DEL T7600
+- Chipset: Intel C602
+- CPU: 2x 8-Core Intel Xeon E5-2620V2 2GHZ
+- RAM: 64 GB DDR3 1333MHz ECC Memory
+- Ethernet: Intel 82579
+- Ethernet: Intel I210
+- Audio: Realtek ALC3220
+- SAS Drive Controllers PCI (RAID): LSI 2308 SATA/SAS 6Gb/s
+- NEC USB3.0 xHCI Controller: Renesas Electronics uPD720201 & uPD720202
+- PSU: 1300 Watts 
+
+# Hardware upgrades
+
+1. WIFI: Fenvi FV-HB1200 Broadcom 94360CS2 Wifi/Bluetooth PCI Adapter AC 1300mb/s
+1. Optival Drive: COMBO DVD-RW + Bluray ROM
+1. Graphics: GIGABYTE AMD Radeon RX560 4GB; output 4k monitors (DVI, HDMI and Display port)
+1. Monitor: LG SMART TV OLED 4K 55"
+1. HD: ADATA SATA 960GB SSD
+1. Keyboard: Apple USB (A1243)
+1. Mouse: Apple Magic Trackpad 2 (A1535)
 
 ## Working:
 
 1. Both "Xeon E5-2620 v2" and all cores with Power Management and P-States (using VoodooTSCSync & ssdtPRGen.sh)
-1. ATI RADEON RX 560
+1. ATI RADEON RX 560 (OOB)
 1. Realtek ALC3220 (ALC280)  (using VoodooHDA till Now - it is partially working with AppleALC using layout-id 13)
 1. LSI 2308 SAS (using AstekFusion2)
 1. Intel 82579 Network Controller (Vanilla)
@@ -52,10 +58,6 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 ![alt text](https://i.ebayimg.com/images/g/QE8AAOSwCDxeP-e9/s-l1600.jpg)
 
 ![alt text](https://i.ebayimg.com/images/g/L9gAAOSwtjBeP-ew/s-l1600.png)
-
-# Hardware upgrades
-
-1. Fenvi FV-HB1200 Broadcom 94360CS2 Wifi/BT Adapter
 
 ## Install a Supported Graphic Card Out Of The Box (OOB)
 
