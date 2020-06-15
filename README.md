@@ -32,3 +32,5 @@ This Workstation used to be a Beast with Dual CPUs and a lot of of RAM (64 GB), 
 
 1. NEC USB3.0 xHCI Controller (Renesas Electronics uPD720201 & uPD720202)
 1. Sleep
+
+![alt text](https://www.insanelymac.com/forum/uploads/monthly_2018_08/dell_precision_t7610_462_1212_mini_1065183.jpg.708d200690c29b90ba349b695fbe2c2c.jpg)
