@@ -48,10 +48,9 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 
 ![alt text](https://i.ebayimg.com/images/g/L9gAAOSwtjBeP-ew/s-l1600.png)
 
-## Hardware updrades
+# Hardware upgrades
 
 1. Fenvi FV-HB1200 Broadcom 94360CS2 Wifi/BT Adapter
-
 
 # Dell Precision T7600 + MacPro = The Dell MacPro
 
