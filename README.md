@@ -58,7 +58,7 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 
 
 ## Dell T7610 Resources:
-- Overview (Sales Presentation - Video)
+- Overview [LINK](https://www1.la.dell.com/mx/es/corp/Computadora-y-Todo-en-uno/precision-t7610-workstation/pd.aspx?refid=precision-t7610-workstation&s=corp)
 - Specifications [(PDF)](http://i.dell.com/sites/doccontent/business/smb/merchandizing/en/Documents/Dell_Precision_T7610_Spec_Sheet.pdf)
 - Statement of volatility [PDF](https://downloads.dell.com/manuals/all-products/esuprt_desktop/esuprt_dell_precision_workstation/precision-t7610-workstation_administrator%20guide_en-us.pdf)
 - Setup and Features Information [PDF](https://downloads.dell.com/manuals/all-products/esuprt_desktop/esuprt_dell_precision_workstation/precision-t7610-workstation_setup%20guide_en-us.pdf)
