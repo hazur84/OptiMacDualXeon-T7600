@@ -54,7 +54,7 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 ## Dell T7600 Resources:
 - Dell Precision T7610 Workstation - Product Page (specs, etc.)
 - Dell Precision T7600 Workstation Overview (Sales Presentation - Video)
-- Dell Precision T7600 Workstation Specifications (PDF)
+- Dell Precision T7600 Workstation Specifications (PDF) https://www.dell.com/downloads/global/products/precn/en/Dell-Precision-T7600-Spec-Sheet.pdf
 - Dell Precision T7610 Workstation Specifications (PDF)
 - Dell T7600 documentation (dell.com): Owner's Manual (PDF)
 - Dell T7600 support (dell.com)
