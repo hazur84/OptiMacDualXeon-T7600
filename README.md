@@ -39,6 +39,5 @@ This Workstation used to be a Beast with Dual CPUs and a lot of of RAM (64 GB), 
 
 ![alt text](https://www.insanelymac.com/forum/uploads/monthly_2018_08/delovna-postaja-dell-precision-t7610-4492-1.jpg.a3b6e0738a01c320abf08c8c44522e03.jpg)
 
-![alt text]
-(https://i.ebayimg.com/images/g/QE8AAOSwCDxeP-e9/s-l1600.jpg)
+![alt text](https://i.ebayimg.com/images/g/QE8AAOSwCDxeP-e9/s-l1600.jpg)
 
