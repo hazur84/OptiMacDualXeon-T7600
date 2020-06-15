@@ -7,13 +7,13 @@ This is a complete installation guide to install macOS Mojave 10.14.6 on your cu
 
 ## Introduction: 
 
-This Workstation for extreme application used to be a Beast with Dual CPUs and a lot of of RAM (64 GB), I Know it is now normal to get that much cores in a Desktop but it is still a very decent machine for me (As a Programmer), and I thought it would be a good idea to Install MOJAVE MacOS 10.15.6 as the Daily Driver, also 
+This Workstation for extreme application used to be a Beast with Dual CPUs and a lot of of RAM (64 GB), I Know it is now normal to get that much cores in a Desktop but it is still a very decent machine for me (As a Programmer), and I thought it would be a good idea to Install MOJAVE MacOS 10.14.6 as the Daily Driver, also 
 
 It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of over 350mb/s, along with 250mb/s read write speed, and a ssd for system and applications, is configured to work with the most demanding video files, Ultra-performance video editing 3D sound system.
 
 ## Specifications
 
-- Motherboard: DEL T7600
+- Motherboard: DELL T7600
 - Chipset: Intel C602
 - CPU: 2x 8-Core Intel Xeon E5-2620V2 2GHZ
 - RAM: 64 GB DDR3 1333MHz ECC Memory
