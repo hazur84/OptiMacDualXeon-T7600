@@ -53,10 +53,6 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 
 ![alt text](https://www.insanelymac.com/forum/uploads/monthly_2018_08/dell_precision_t7610_462_1212_mini_1065183.jpg.708d200690c29b90ba349b695fbe2c2c.jpg)
 
-![alt text](https://www.insanelymac.com/forum/uploads/monthly_2018_08/delovna-postaja-dell-precision-t7610-4492-1.jpg.a3b6e0738a01c320abf08c8c44522e03.jpg)
-
-![alt text](https://i.ebayimg.com/images/g/QE8AAOSwCDxeP-e9/s-l1600.jpg)
-
 ![alt text](https://i.ebayimg.com/images/g/L9gAAOSwtjBeP-ew/s-l1600.png)
 
 ![alt text](https://c528a1c3-a-9923f991-s-sites.googlegroups.com/a/dv411.com/support/home/vendors/dell/T7600%20System%20Components.png?attachauth=ANoY7crD05fCxWyc8vYAL3W96AYXQ3aqjC9F7CyhpobLtYJLvLyykVwH6jtQjKBBraFZgpcsnM0bk1NgT4O5V0QdsiFMvzpKEC2u4IN-eHjNL3cqLnFtHF7XUFtcxIqGPgnl1NkoMQN3i-bDp49Qjtj98BFwRLvxa7x4oXl7HcmtvJx_tVw9YppvzXkQerv0GBPmPxW9DLI0r_vj8LLCqchVD28Humw9ePkSF3RParOXacJBE-iN_Oa0_Q2IzPaHKMyN-XfCtB76&attredirects=0)
@@ -187,3 +183,8 @@ It's fully described here how to patch the DSDT. **NOTE: You can NOT use my patc
 
 You might find other issues that you want to patch. Good luck!
 
+# BENCHMARKING
+
+![alt text](https://www.insanelymac.com/forum/uploads/monthly_2018_08/delovna-postaja-dell-precision-t7610-4492-1.jpg.a3b6e0738a01c320abf08c8c44522e03.jpg)
+
+![alt text](https://i.ebayimg.com/images/g/QE8AAOSwCDxeP-e9/s-l1600.jpg)
