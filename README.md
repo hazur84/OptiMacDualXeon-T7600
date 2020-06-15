@@ -132,13 +132,11 @@ H. Add the HFSPlus.efi driver to the Drivers64-UEFI folder. This is also attache
 
 ## Step 2. Update your BIOS and Change the Settings
 
-Download the latest Optiplex 7020 BIOS A18 - Download the latest Optiplex 9020 BIOS A25
-This is included as a mandatory step because the version that your Dell came with is likely much too old to work. Mine came with A05 from late 2015. For testing purposes, I tried the Mojave install and it worked. There were many USB related issues that could not be resolved until I later flashed to a newer 2018 BIOS. If yours is A10 or lower for the 7020 or A18 for the 9020 or lower, it's best to do this to get a fully functional OptiMac. Especially if you want working USB 3.0 ports.
+1. Download the latest BIOS A17
+This is included as a mandatory step because the version that your Dell came with is likely much too old to work. 
+For testing purposes, I tried the Mojave install and it worked. There were many issues that could not be resolved until you later flashed to a newer BIOS. If yours is A16 or lower, it's best to do this to get a fully functional. Especially if you want working USB 3.0 ports.
 
-If you do flash to A18 or A25 and want to downgrade later to an older BIOS that is an option you have. If you don't want the latest Intel Spectre and Meltdown updates to the CPU microcode then flash only up to A13 instead of A18. For the 9020, the newest BIOS without the Intel security patches would be A20. In my testing the A18/A25 BIOS versions don't significantly slow down i5 or i7 CPUs so consider flashing to the latest versions.
-
-Flashing the BIOS to a newer Revision
-
+1.Flashing the BIOS to a newer Revision
 It's easiest by far to flash your Dell to a newer BIOS from the Windows Desktop. You simply update the BIOS from right within Windows by double clicking on the .exe file. This will initiate the flashing process. Make sure you have Internet Explorer or Edge set as your default browser. Let your Dell reboot automatically to complete the process.
 
 If you don't have a Windows 7 8.1 or 10 install on the hard drive of your Dell. You could download a Windows 10 iso from Microsoft and create an install USB but that is very time consuming and tedious. Dell offers a simple way to create a DOS based USB that you can boot from and flash the BIOS without having a Windows installation on your Optiplex.
