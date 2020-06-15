@@ -49,7 +49,12 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 1. NEC USB3.0 xHCI Controller (Renesas Electronics uPD720201 & uPD720202)
 1. Sleep
 
-# Dell Precision T7600 Workstation Resources
+# Dell Precision T76XX Workstation Resources
+
+## Difference between T7600 & T7610
+
+- T7610 RAM more faster 1866Mhz vs 1600Mhz T7600
+- T7610 STORAGE CONTROLLER INTEGRATED LSI 2308
 
 ## Dell T7600 Resources:
 - Overview (Sales Presentation - Video)
@@ -63,6 +68,8 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 - Statement of volatility [PDF](https://downloads.dell.com/manuals/all-products/esuprt_desktop/esuprt_dell_precision_workstation/precision-t7610-workstation_administrator%20guide_en-us.pdf)
 - Setup and Features Information [PDF](https://downloads.dell.com/manuals/all-products/esuprt_desktop/esuprt_dell_precision_workstation/precision-t7610-workstation_setup%20guide_en-us.pdf)
 - Owner's Manual [PDF](https://topics-cdn.dell.com/pdf/precision-t7610-workstation_owners-manual_en-us.pdf) 
+
+
 
 ## Dell T7600 System Board Components
 ![alt text](https://c528a1c3-a-9923f991-s-sites.googlegroups.com/a/dv411.com/support/home/vendors/dell/T7600%20System%20Components.png?attachauth=ANoY7crD05fCxWyc8vYAL3W96AYXQ3aqjC9F7CyhpobLtYJLvLyykVwH6jtQjKBBraFZgpcsnM0bk1NgT4O5V0QdsiFMvzpKEC2u4IN-eHjNL3cqLnFtHF7XUFtcxIqGPgnl1NkoMQN3i-bDp49Qjtj98BFwRLvxa7x4oXl7HcmtvJx_tVw9YppvzXkQerv0GBPmPxW9DLI0r_vj8LLCqchVD28Humw9ePkSF3RParOXacJBE-iN_Oa0_Q2IzPaHKMyN-XfCtB76&attredirects=0)
