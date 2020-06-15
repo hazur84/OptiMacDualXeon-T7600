@@ -130,7 +130,7 @@ F. Open up the kexts/other folder and drag and drop the release version USBInjec
 G. Download "SSDTs" zip file from the end of this post and place those files in the /Clover/ACPI/patched folder
 H. Add the HFSPlus.efi driver to the Drivers64-UEFI folder. This is also attached below.
 
-## Step 2. Update your BIOS and Change the Settings
+## Step 2. Update BIOS to last available version (A17)
 
 1. Download the latest BIOS A17
 This is included as a mandatory step because the version that your Dell came with is likely much too old to work. 
@@ -142,3 +142,41 @@ It's easiest by far to flash your Dell to a newer BIOS from the Windows Desktop.
 1. If you don't have a Windows 7 8.1 or 10 install on the hard drive of your Dell. You could download a Windows 10 iso from Microsoft and create an install USB but that is very time consuming and tedious. Dell offers a simple way to create a DOS based USB that you can boot from and flash the BIOS without having a Windows installation on your Optiplex.
 
 1. There is the Dell Diagnostics Deployment Package software (a free download from Dell) that you can use to make a bootable USB and then boot from that to flash the BIOS to a newer version. Follow the directions in this video.
+
+## Recommended BIOS Settings
+
+If you're installing on a recommended CustoMac desktop with AMI UEFI BIOS, the options are simple. For other systems make sure to set your BIOS to Optimized Defaults, and your hard drive to AHCI mode. Here are standard AMI UEFI BIOS settings for
+Gigabyte AMI UEFI BIOS, Gigabyte AWARD BIOS, ASUS AMI UEFI BIOS, and MSI AMI UEFI BIOS.
+
+1. To access BIOS/UEFI Setup, press and hold Delete on a USB Keyboard while the system is booting up
+1. Load Optimized Defaults
+1. If your CPU supports VT-d, disable it
+1. If your system has CFG-Lock, disable it
+1. If your system has Secure Boot Mode, disable it
+1. Set OS Type to Other OS
+1. If your system has IO Serial Port, disable it
+1. Set XHCI Handoff to Enabled
+1. If you have a 6 series or x58 system with AWARD BIOS, disable USB 3.0
+1. Save and exit.
+
+## FUll patched DSDT
+
+It's fully described here how to patch the DSDT. **NOTE: You can NOT use my patched DSDT.aml or anyone's else. You must do it yourself!** Short story:
+
+1. Boot into Clover. Press F4 and then boot into macOS.
+1. Clone iasl to a folder of your choice (git clone https://github.com/RehabMan/Intel-iasl iasl).
+1. make && sudo make install to build and put the binary at the default path for binaries.
+1. Download the latest MaciASL from here.
+1. Mount the EFI partition and copy over the .aml files in EFI/CLOVER/ACPI/origin that start with DSDT or SSDT to a new folder somewhere.
+1. Run iasl -da -dl DSDT.aml SSDT*.aml in that directory.
+1. Open MaciASL and open the outputted DSDT.dsl.
+1. Apply patches. In my case, I wanted proper sleep (it was waking up by USB events):
+
+ into_all method label _PRW  remove_entry;
+ into_all all code_regex Name.*_PRW.*\n.*\n.*\n.*\n.*\}\) remove_matched;
+ 
+1. Save as ACPI Machine Language Binary to EFI/CLOVER/ACPI/patched/DSDT.aml.
+1. Reboot.
+
+You might find other issues that you want to patch. Good luck!
+
