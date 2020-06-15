@@ -49,13 +49,61 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 1. NEC USB3.0 xHCI Controller (Renesas Electronics uPD720201 & uPD720202)
 1. Sleep
 
-## Pictures DELL T7600
+# Dell Precision T7600 Workstation Resources
+
+## Dell T7600 Resources:
+- Dell Precision T7610 Workstation - Product Page (specs, etc.)
+- Dell Precision T7600 Workstation Overview (Sales Presentation - Video)
+- Dell Precision T7600 Workstation Specifications (PDF)
+- Dell Precision T7610 Workstation Specifications (PDF)
+- Dell T7600 documentation (dell.com): Owner's Manual (PDF)
+- Dell T7600 support (dell.com)
+
+## Dell T7600 System Board Components
+![alt text](https://c528a1c3-a-9923f991-s-sites.googlegroups.com/a/dv411.com/support/home/vendors/dell/T7600%20System%20Components.png?attachauth=ANoY7crD05fCxWyc8vYAL3W96AYXQ3aqjC9F7CyhpobLtYJLvLyykVwH6jtQjKBBraFZgpcsnM0bk1NgT4O5V0QdsiFMvzpKEC2u4IN-eHjNL3cqLnFtHF7XUFtcxIqGPgnl1NkoMQN3i-bDp49Qjtj98BFwRLvxa7x4oXl7HcmtvJx_tVw9YppvzXkQerv0GBPmPxW9DLI0r_vj8LLCqchVD28Humw9ePkSF3RParOXacJBE-iN_Oa0_Q2IzPaHKMyN-XfCtB76&attredirects=0)
+
+1. PCI slot
+2. PCIe x16 slot
+3. PCIe x16 slot (wired as x4)
+4. PCIe x16 slot (accelerated graphics port)
+5. PCIe open-ended slot (wired as x4)
+6. USB 3.0 front panel connector
+7. Intrusion switch connector
+8. DIMM slots (available only when optional second processor is installed)
+9. Processor
+10. Processor fan socket
+11. front panel audio connector
+12. DIMM slots (available only when optional second processor is installed)
+13. PCIe X16 slots (available only when optional second processor is installed)
+14. HDD3 fan connector
+15. HDD2 fan connector
+16. system fan 1 connector
+17. 24-pin power 2 connector
+18. DIMM slots
+19. Processor
+20. DIMM slots
+21. Processor fan socket
+22. system fan 2 connector
+23. PSWD jumper
+24. System 3 fan connector
+25. internal speaker connector
+26. remote power enable
+27. front panel & USB 2.0 connector
+28. 24-pin power1 connector
+29. SATA connectors
+30. Internal USB 2.0 connector
+31. RTCRST jumper
+32. SAS0 connector
+33. SAS1 connector
+34. HDD temperature sensor connector
+35. Internal USB 2.0 connector
+36. HDD1 fan connector
+37. Coin-cell battery
 
 ![alt text](https://www.insanelymac.com/forum/uploads/monthly_2018_08/dell_precision_t7610_462_1212_mini_1065183.jpg.708d200690c29b90ba349b695fbe2c2c.jpg)
 
 ![alt text](https://www.insanelymac.com/forum/uploads/monthly_2018_08/delovna-postaja-dell-precision-t7610-4492-1.jpg.a3b6e0738a01c320abf08c8c44522e03.jpg)
 
-![alt text](https://c528a1c3-a-9923f991-s-sites.googlegroups.com/a/dv411.com/support/home/vendors/dell/T7600%20System%20Components.png?attachauth=ANoY7crD05fCxWyc8vYAL3W96AYXQ3aqjC9F7CyhpobLtYJLvLyykVwH6jtQjKBBraFZgpcsnM0bk1NgT4O5V0QdsiFMvzpKEC2u4IN-eHjNL3cqLnFtHF7XUFtcxIqGPgnl1NkoMQN3i-bDp49Qjtj98BFwRLvxa7x4oXl7HcmtvJx_tVw9YppvzXkQerv0GBPmPxW9DLI0r_vj8LLCqchVD28Humw9ePkSF3RParOXacJBE-iN_Oa0_Q2IzPaHKMyN-XfCtB76&attredirects=0)
 
 ## Install a Supported Graphic Card Out Of The Box (OOB)
 
