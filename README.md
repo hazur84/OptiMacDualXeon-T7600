@@ -54,7 +54,8 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 ## Difference between T7600 & T7610
 
 - T7610 RAM more faster 1866Mhz vs 1600Mhz T7600
-- T7610 STORAGE CONTROLLER INTEGRATED LSI 2308
+- T7610 STORAGE CONTROLLER INTEGRATED LSI 2308 (10 SATA INTERNAL)
+- T7600 STORAGE CONTROLLER Dell PERC H310 (2 SATA INTERNAL)
 
 ## Dell T7600 Resources:
 - Overview (Sales Presentation - Video)
