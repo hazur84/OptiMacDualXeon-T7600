@@ -143,7 +143,7 @@ It's easiest by far to flash your Dell to a newer BIOS from the Windows Desktop.
 
 1. There is the Dell Diagnostics Deployment Package software (a free download from Dell) that you can use to make a bootable USB and then boot from that to flash the BIOS to a newer version. Follow the directions in this video.
 
-## Recommended BIOS Settings
+## Step 3. Recommended BIOS Settings
 
 If you're installing on a recommended CustoMac desktop with AMI UEFI BIOS, the options are simple. For other systems make sure to set your BIOS to Optimized Defaults, and your hard drive to AHCI mode. Here are standard AMI UEFI BIOS settings for
 Gigabyte AMI UEFI BIOS, Gigabyte AWARD BIOS, ASUS AMI UEFI BIOS, and MSI AMI UEFI BIOS.
@@ -159,7 +159,7 @@ Gigabyte AMI UEFI BIOS, Gigabyte AWARD BIOS, ASUS AMI UEFI BIOS, and MSI AMI UEF
 1. If you have a 6 series or x58 system with AWARD BIOS, disable USB 3.0
 1. Save and exit.
 
-## FUll patched DSDT
+## Step 4. FUll patched DSDT
 
 It's fully described here how to patch the DSDT. **NOTE: You can NOT use my patched DSDT.aml or anyone's else. You must do it yourself!** Short story:
 
