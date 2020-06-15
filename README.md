@@ -1,4 +1,4 @@
-# CUSTOM MAC PRO DELL T7600 WORKSTATION Hackintosh GUIDE
+# Custom MacPro DELL T7600 Workstation Hackintosh Guide
 
 ## Introduction: 
 
