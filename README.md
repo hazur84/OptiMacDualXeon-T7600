@@ -60,7 +60,7 @@ It is faster than the most expensive mac pro, with a 2x1 TB raid drive speed of 
 
 Most people know that Nvidia has never released Web drivers for Mojave. What you may not know is that there is still support for many Nvidia Kepler cards right within Mojave. No drivers need to be installed for these cards to work in either High Sierra or Mojave. We don't know how long support will last for these but as of today they are fully supported.
 
-The Following Cards are all Mojave Compatible:
+The Following Cards are all Mojave and Catalina compatible:
 
 **Kepler Gen 2:**
 GTX 770,
@@ -87,7 +87,7 @@ Quadro K2000/D,
 Quadro K4000/D,
 NVS 510.
 
-### Supported ATI Graphics Cards Serie RX5XX
+### Supported ATI graphics cards RX 5XX series.
 
 RX 550,
 RX 560 (Best option relaible, not require power connector),
